@@ -2,8 +2,8 @@
 # MI TITULO
 ## SUBTITULO
 <!-- FORMATOS-->
-* CURSIVA*
-** NEGRITA **
+*CURSIVA*
+**NEGRITA**
 <--!listas-->
 Manzana
 .Naranja
