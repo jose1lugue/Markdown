@@ -49,7 +49,7 @@ if[ ! -d ¨$directorio" ]
      then
           mkdir¨$directorio¨
 fi
-
+```
 <!-- TABLAS -->
 
 |Nombre    | Apellidos|
