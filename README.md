@@ -45,3 +45,14 @@ apt install apache2
 ```sh
 #!/bin/bash
 
+if[ ! -d ¨$directorio" ]
+     then
+          mkdir¨$directorio¨
+fi
+
+<!-- TABLAS -->
+
+|Nombre    | Apellidos|
+|----------|----------|
+|Manuel    | Domínguez|
+|Rosa      | López    |
