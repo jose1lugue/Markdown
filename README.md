@@ -39,4 +39,9 @@ apt update
 aptupgrade
 apt install apache2
 
-``` 
+```
+<!--codigo con colores-->
+
+```sh
+#!/bin/bash
+
