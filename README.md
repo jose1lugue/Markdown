@@ -58,8 +58,7 @@ fi
 |Rosa      | López    |
 
 <!-- IMÁGENES -->
-<!-- google: goku rtve -->
 
 ![Goku](https://img2.rtve.es/i/?w=1600&i=1657019154219.jpg)
 
-<!-- 
+
